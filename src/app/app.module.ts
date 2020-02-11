@@ -15,6 +15,7 @@ import { PreciosComponent } from './components/precios/precios.component';
     HomeComponent,
     ProtegidaComponent,
     PreciosComponent
+
   ],
   imports: [
     BrowserModule,
